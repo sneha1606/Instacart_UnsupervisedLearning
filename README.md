@@ -6,6 +6,8 @@ This dataset was used to for the following reasons:
 2. Perform a Shopper Behavior Analysis to analyze shoppers purchase history and see if any patterns could be found such as what kind of items customers like to purchase in different time of day/week, how often do people reorder the same product they had purchased before, etc.
 3. Perform an exploratory analysis and formulate incremental business problems to increase revenue
 
+*Link to the dataset:* https://www.kaggle.com/psparks/instacart-market-basket-analysis 
+
 *Packages Used:*
 1) Pandas
 2) Numpy
